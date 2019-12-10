@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="main" />
+        <module name="FullStack.MicroWebApplication-Server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="FullStack.MicroWebApplication-Server" target="1.7" />
       <module name="java" target="1.5" />
       <module name="main" target="1.5" />
       <module name="src" target="1.5" />
