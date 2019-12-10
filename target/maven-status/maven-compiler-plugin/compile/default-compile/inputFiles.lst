@@ -1,0 +1,15 @@
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/controllers/CommentController.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/repositories/VideoRepository.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/ViewCafeApplication.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/controllers/UserController.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/models/Comment.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/services/VideoService.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/models/User.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/services/CommentService.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/repositories/CommentRepository.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/exceptions/ResourceNotFoundException.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/controllers/VideoController.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/services/UserService.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/exceptions/RestExceptionHandler.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/models/Video.java
+/Users/val/Dev/final_Projects/FullStack.MicroWebApplication-Server/src/main/java/io/zipcoder/viewcafe_application/repositories/UserRepository.java
