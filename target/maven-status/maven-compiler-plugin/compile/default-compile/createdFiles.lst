@@ -1,0 +1,15 @@
+io/zipcoder/viewcafe_application/ViewCafeApplication.class
+io/zipcoder/viewcafe_application/repositories/UserRepository.class
+io/zipcoder/viewcafe_application/models/Video.class
+io/zipcoder/viewcafe_application/controllers/UserController.class
+io/zipcoder/viewcafe_application/models/User.class
+io/zipcoder/viewcafe_application/services/UserService.class
+io/zipcoder/viewcafe_application/repositories/VideoRepository.class
+io/zipcoder/viewcafe_application/models/Comment.class
+io/zipcoder/viewcafe_application/controllers/CommentController.class
+io/zipcoder/viewcafe_application/exceptions/RestExceptionHandler.class
+io/zipcoder/viewcafe_application/services/CommentService.class
+io/zipcoder/viewcafe_application/exceptions/ResourceNotFoundException.class
+io/zipcoder/viewcafe_application/services/VideoService.class
+io/zipcoder/viewcafe_application/repositories/CommentRepository.class
+io/zipcoder/viewcafe_application/controllers/VideoController.class
