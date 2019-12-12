@@ -10,6 +10,8 @@ public class User {
     @Id
     @GeneratedValue
     private Long userId;
+
+    private String username;
     private String firstName;
     private String lastName;
     private String password;
@@ -19,6 +21,14 @@ public class User {
     //Nullary Constructor
     public User(){
 
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
     }
 
     public Long getUserId() {
