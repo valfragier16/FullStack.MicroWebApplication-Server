@@ -25,9 +25,9 @@ public class VideoService {
     }
 
     public Video update(Long videoId, Video video){
-        Video currentVideo = repository.findOne(videoId);
-        currentVideo.setVideoDescription(video.getVideoDescription());
-        currentVideo.setVideoName(video.getVideoName());
+        Video ogVideo = repository.findOne(videoId);
+        ogVideo.setVideoDescription(video.getVideoDescription());
+        ogVideo.setVideoName(video.getVideoName());
         return repository.save(video);
     }
 
